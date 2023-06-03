@@ -1,0 +1,17 @@
+{
+  "name": "speechToText",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/speech": "^5.5.0",
+    "venom-bot": "^5.0.1"
+  },
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "devDependencies": {
+    "tsx": "^3.12.7",
+    "typescript": "^5.1.3"
+  }
+}
