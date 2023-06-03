@@ -10,6 +10,11 @@ Run the following command:
 
 ``` yarn dev || npm run dev ```
 
+Scan QR-Code in terminal with whatsapp
+
+![My Image](prints/scanQrCode.png)
+
+
 ## Librarys
 
 This project utilizes the following:
